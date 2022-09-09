@@ -1,3 +1,4 @@
+#!/bin/bash
 i = 0
 sudo apt-get install ufw
 while IFS= read -r block

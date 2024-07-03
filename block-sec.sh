@@ -11,6 +11,7 @@ go install github.com/projectdiscovery/asnmap/cmd/asnmap@latest
 # Define an array of security, technology, and additional company names
 companies=(
     "Symantec"
+    "NetSpi"
     "McAfee"
     "Trend Micro"
     "Palo Alto Networks"
